@@ -26,3 +26,10 @@ Desenvolvedor Web Front-end Junior
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiCoutoSt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Liguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoutoSt)](https://github.com/anuraghazra/github-readme-stats)
+
+### Principais Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

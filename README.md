@@ -11,25 +11,15 @@ Desenvolvedor Web Front-end Junior
 
 
 ### Hard Skills 
-- `HTML5` 
-- `CSS3` 
-- `JavaScript`
-- `ReactJs`
-- `Typescript`
-- `Redux`
-- `GitHub`
-- `MUI`
-- `Chakra UI`
-- `Scrum`
-- `Figma`
+`HTML5`|`CSS3`|`JavaScript`|`ReactJs`|`Typescript`|`Redux`|`GitHub`|`MUI`|`Chakra UI`|`Scrum`|`Figma`
+&nbsp;
+&nbsp;
+<br />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiCoutoSt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Liguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoutoSt)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiCoutoSt&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Liguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoutoSt&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Principais Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoutoSt&repo=hamburgueria-2&theme=dracula&show_owner)](https://github.com/GuiCoutoSt/hamburgueria-2)
+
+

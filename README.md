@@ -20,6 +20,6 @@ Desenvolvedor Web Front-end Junior
 [![Liguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCoutoSt&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Principais Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoutoSt&repo=hamburgueria-2&theme=dracula&show_owner)](https://github.com/GuiCoutoSt/hamburgueria-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoutoSt&repo=hamburgueria-2&theme=dracula&show_owner=True)](https://github.com/GuiCoutoSt/hamburgueria-2)
 
 

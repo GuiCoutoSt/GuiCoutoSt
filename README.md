@@ -22,6 +22,4 @@ Desenvolvedor Web Front-end Junior
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoutoSt&repo=space-maze&theme=dracula&show_owner=True)](https://github.com/GuiCoutoSt/space-maze)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoutoSt&repo=space-maze&theme=dracula&show_owner=True)](https://github.com/GuiCoutoSt/space-maze)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoutoSt&repo=magic-8-ball&theme=dracula&show_owner=True)](https://github.com/GuiCoutoSt/magic-8-ball)

@@ -18,6 +18,8 @@ Desenvolvedor Web Front-end Junior
 ### Principais Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoutoSt&repo=hamburgueria-2&theme=dracula&show_owner=True)](https://github.com/GuiCoutoSt/hamburgueria-2)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoutoSt&repo=kenzie-shop-contextapi&theme=dracula&show_owner=True)](https://github.com/GuiCoutoSt/kenzie-shop-contextapi)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoutoSt&repo=burguer-api&theme=dracula&show_owner=True)](https://github.com/GuiCoutoSt/burguer-api)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoutoSt&repo=space-maze&theme=dracula&show_owner=True)](https://github.com/GuiCoutoSt/space-maze)
